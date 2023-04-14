@@ -2,6 +2,9 @@
 img{
 	width:32%;
 	border-radius:15px;
+	margin-right: 4px;   /* Horizontal Space */
+   margin-bottom: 7px; 
+
 }
 .container{
 	background-color:#444;
