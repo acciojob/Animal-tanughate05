@@ -6,9 +6,9 @@ img{
 .container{
 	background-color:#444;
 	border-radius:15px;
-	padding:20px;
+	padding:22px;
 }
-h1 ,#photo-heading{
+.h1,#photo-heading{
 	color:white;
 	text-align:center;
 }
