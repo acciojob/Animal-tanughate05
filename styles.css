@@ -6,9 +6,10 @@ img{
 .container{
 	background-color:#444;
 	border-radius:15px;
-	padding:22px;
+	padding:20px;
 }
 .h1,#photo-heading{
 	color:white;
+	text-transform:uppercase;
 	text-align:center;
 }
